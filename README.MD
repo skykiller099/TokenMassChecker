@@ -40,7 +40,7 @@ Ce logiciel est fourni **strictement à des fins éducatives** pour comprendre l
 git clone https://github.com/skykiller099/TokenMassChecker.git
 
 # Se déplacer dans le répertoire
-cd DiscordTokenSearcher
+cd TokenMassChecker
 
 # Installer les dépendances
 pip install -r requirements.txt
